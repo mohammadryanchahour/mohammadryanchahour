@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate Software Engineer specializing in Backend Development, with experience in various technologies including Node.js/NestJS, Laravel, Flask, Django, and more. I'm enthusiastic about building scalable and efficient applications that solve real-world problems.
+I'm a passionate Software Engineer specializing in Backend Development, with experience in various technologies including Node.js, Express.js, NestJS, Laravel, Flask, Django, and more. I'm enthusiastic about building scalable and efficient applications that solve real-world problems.
 
 ## 🚀 My Tech Stack
 
@@ -10,11 +10,11 @@ I'm a passionate Software Engineer specializing in Backend Development, with exp
 - **Backend:** Node.js, NestJS, Flask, Django, Laravel
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **DevOps:** Docker, Kubernetes, CI/CD pipelines
-- **Frontend:** Vue.js, HTML, CSS
+- **Frontend:** Vue.js, HTML, CSS, Javascript
 
 ## 📫 Get in Touch
 
-- LinkedIn: [linkedin.com/in/mohammadryan](https://www.linkedin.com/in/mohammadryan)
+- LinkedIn: [linkedin.com/in/mohammadryanchahour](https://www.linkedin.com/in/mohammadryanchahour)
   
 ## 🌱 I’m currently learning
 
