@@ -8,13 +8,13 @@ I'm a passionate Software Engineer specializing in Backend Development, with exp
 
 - **Languages:** Python, JavaScript
 - **Backend:** Node.js, NestJS, Flask, Django, Laravel
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Databases:** MySQL, PostgreSQL, MongoDB, CouchDB
 - **DevOps:** Docker, Kubernetes, CI/CD pipelines
 - **Frontend:** Vue.js, HTML, CSS, Javascript
 
 ## 📫 Get in Touch
 
-- LinkedIn: [linkedin.com/in/mohammadryanchahour](https://www.linkedin.com/in/mohammadryanchahour)
+- LinkedIn: [linkedin.com/in/mohammad-ryan](https://www.linkedin.com/in/mohammad-ryan)
   
 ## 🌱 I’m currently learning
 
