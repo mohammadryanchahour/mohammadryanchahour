@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate Software Engineer specializing in Backend Development, with experience in various technologies including Node.js, Express.js, NestJS, Laravel, Flask, Django, and more. I'm enthusiastic about building scalable and efficient applications that solve real-world problems.
+I'm a Software Engineer specializing in Backend Engineering, with experience in various technologies including Node.js, Express.js, NestJS, Flask, Django, and more. I am also proficient in building custom data pipelines. I'm enthusiastic about building scalable and efficient solutions for real-world problems.
 
 ## 🚀 My Tech Stack
 
