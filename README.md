@@ -9,7 +9,8 @@ I'm a passionate Software Engineer specializing in Backend Development, with exp
 - **Languages:** HTML, CSS, JavaScript, Python
 - **Backend:** Node.js, NestJS, Flask, FastAPI, Django
 - **Databases:** MySQL, MongoDB
-- **DevOps:** Docker, Kubernetes, CI/CD pipelines
+- **Data Engineering:** Data Pipelines (ETL/ELT), Apache Kafka, Airbyte 
+- **DevOps:** Docker, Kubernetes, CI/CD
 - **Frontend:** React.js
 
 ## 📫 Get in Touch
