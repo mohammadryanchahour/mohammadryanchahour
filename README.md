@@ -6,11 +6,11 @@ I'm a passionate Software Engineer specializing in Backend Development, with exp
 
 ## 🚀 My Tech Stack
 
-- **Languages:** HTML, CSS, Python, JavaScript
-- **Backend:** Node.js, NestJS, Flask, Django, Laravel
-- **Databases:** MySQL, PostgreSQL, MongoDB, CouchDB
+- **Languages:** HTML, CSS, JavaScript, Python
+- **Backend:** Node.js, NestJS, Flask, FastAPI, Django
+- **Databases:** MySQL, MongoDB
 - **DevOps:** Docker, Kubernetes, CI/CD pipelines
-- **Frontend:** Vue.js
+- **Frontend:** React.js
 
 ## 📫 Get in Touch
 
