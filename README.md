@@ -7,8 +7,8 @@ I'm a Software Engineer specializing in Backend Engineering, with experience in 
 ## 🚀 My Tech Stack
 
 - **Languages:** HTML, CSS, JavaScript, Python
-- **Backend:** Node.js, NestJS, Flask, FastAPI, Django
-- **Databases:** MySQL, MongoDB
+- **Backend:** Node.js, Express.js, Flask, FastAPI, Django
+- **Databases:** PostgreSQL, MongoDB
 - **Data Engineering:** Data Pipelines (ETL/ELT), Apache Kafka, Airbyte 
 - **DevOps:** Docker, Kubernetes, CI/CD
 - **Frontend:** React.js
