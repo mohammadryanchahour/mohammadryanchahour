@@ -2,27 +2,22 @@
 
 ## About Me
 
-I'm a Software Engineer specializing in Backend Engineering, with experience in various technologies including Node.js, Express.js, NestJS, Flask, Django, and more. I am also proficient in building custom data pipelines. I'm enthusiastic about building scalable and efficient solutions for real-world problems.
+I'm a Software Engineer specializing in Backend Engineering, with experience in various technologies including Node.js, Express.js, NestJS, Flask, FastAPI, Django, and more. I am also proficient in building custom data pipelines. I tinker with new technologies and stack as much as I can to understand the plight of fellow engineers. I've been meaning to dabble into the mystic arts of Rust, wish me luck and longevity.
 
 ## 🚀 My Tech Stack
 
-- **Languages:** HTML, CSS, JavaScript, Python
-- **Backend:** Node.js, Express.js, Flask, FastAPI, Django
-- **Databases:** PostgreSQL, MongoDB
-- **Data Engineering:** Data Pipelines (ETL/ELT), Apache Kafka, Airbyte 
-- **DevOps:** Docker, Kubernetes, CI/CD
-- **Frontend:** React.js
+- **Languages:** HTML, CSS, JavaScript, TypeScript, Python, Java
+- **Backend:** Node.js, Express.js, NestJS, Flask, FastAPI, Django, Springboot
+- **Databases:** PostgreSQL, MongoDB, Qdrant, Milvus, MySQL, CouchDB
+- **AI Engineering:** LangChain, LangGraph, LlamaIndex
+- **Data Engineering:** Apache Kafka, RabbitMQ, Airbyte 
+- **DevOps:** Docker, CI/CD
+- **Frontend:** React.js, Vue.js
 
 ## 📫 Get in Touch
 
 - LinkedIn: [linkedin.com/in/mohammad-ryan](https://www.linkedin.com/in/mohammad-ryan)
   
-## 🌱 I’m currently learning
-
-- Improving my skills in Kubernetes for better container orchestration.
-- Exploring advanced concepts in distributed systems.
-- Enhancing my knowledge in cybersecurity and best practices for secure application development.
-
 ## 🤝🏻 Let's Collaborate
 
 - Interested in collaborating on an open-source project? Feel free to reach out!
